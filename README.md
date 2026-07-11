@@ -1,1 +1,7 @@
-For APK, go to https://www.mediafire.com/file/07sm599yhxaj4c6/AshtonRocks+GDPS.apk/file
+Download the first file from GitHub.
+Paste it into the AoC folder.
+Download the second file from the GameBanana (this)
+Copy it.
+Go into Game files > BepInEx > plugins
+Paste it.
+Launch the game.
